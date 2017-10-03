@@ -15,4 +15,6 @@ chmod a+x /ffp/start/syncthing.sh`
 ```
 Restart NAS
 Syncthing should be running and config files under /ffp/var/syncthing/ should be created.
-Finally edit /ffp/var/syncthing/config.xml and modify for your needs for example enable webinterface with HTTPS.
+
+
+Finally edit /ffp/var/syncthing/config.xml and modify to for example enable webinterface with HTTPS.
